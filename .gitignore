@@ -1,0 +1,6 @@
+hardware/intro_proj
+software/*
+!software/LED_test
+software/LED_test/*
+!software/LED_test/src
+software/LED_test/src/Xilinx.spec

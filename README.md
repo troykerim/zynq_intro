@@ -1,1 +1,3 @@
-# zynq_intro
+# Zynq IP Block Design Introduction
+
+Introductory project that demostrates how to create a basic project using the Zybo Z7-10's Programmable Logic (PL) and it's Zynq processor.  This project wil use Vivado's IP block design to create block diagram that will implement GPIOs and the 4 leds on the Zybo board.  Then within Vitis, using the .XSA file created in Vivado, then writing a C program that will drive the 4 leds on the Zybo board.  
